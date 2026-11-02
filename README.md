@@ -1,4 +1,4 @@
 # melody
 ## study project glo academy
-### done by Volkova Daryna
+### done by Dudiak (Volkova) Dariia
 
